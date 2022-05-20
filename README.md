@@ -12,3 +12,8 @@ Scrieti o aplicatie .NET REST API pentru time tracking. Vor fi suportate functio
 ### Pentru saptamana 3:
 
 Implementati o aplicatie Angular care va suporta operatiile de mai sus comunicand cu serverul de .NET REST API.
+
+### Pentru saptamana 4:
+
+1. Adaugati `SQL Server` aplicatiei de backend.
+2. Adaugati Angular Material aplicatiei de frontend, pentru toate componentele.
